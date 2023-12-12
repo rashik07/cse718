@@ -9,7 +9,7 @@ Paper title:
 Process Mining Techniques in Simulation Model Adequacy Assessment
 
 Link to the paper:
-https://ieeexplore.ieee.org/document/8632257
+https://ieeexplore.ieee.org/document/8940672
 
 Group Number:
 15
